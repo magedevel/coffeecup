@@ -1,5 +1,5 @@
-# coffeecup
-A proof of concept application to study React Native application.
+# Coffeecup
+A proof of concept application to study React Native applications.
 
 # Obejctives
 With Cofeecup application, as user we would like to:
