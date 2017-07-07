@@ -2,7 +2,7 @@
 A proof of concept application to study React Native applications.
 
 # Obejctives
-With Cofeecup application, as user we would like to:
+With Cofeecup application, as user I would like to:
 <ul>
 <li> have a currency conversion rate (Ruble / EUR)</li>
 
